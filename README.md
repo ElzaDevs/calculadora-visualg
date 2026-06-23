@@ -1,14 +1,14 @@
-# Calculadora Matemática em Visualg
+<strong> # |Calculadora Matemática em Visualg| </strong>
 
-## Contexto
+<strong> ## Contexto </strong>
 
 Projeto desenvolvido como atividade da disciplina de Linguagem e Lógica de Programação com o objetivo de consolidar os fundamentos da construção de algoritmos e da programação estruturada.
 
-## Objetivo
+<strong> ## Objetivo </strong>
 
 Desenvolver uma aplicação orientada por menu capaz de executar diferentes operações matemáticas, exercitando a decomposição de problemas em etapas lógicas e o controle do fluxo de execução.
 
-## Funcionalidades Implementadas
+<strong> ## Funcionalidades Implementadas </strong>
 
 - Operações aritméticas básicas
 - Potenciação
@@ -17,7 +17,7 @@ Desenvolver uma aplicação orientada por menu capaz de executar diferentes oper
 - Navegação por menu interativo
 - Encerramento controlado da aplicação
 
-## Conceitos Aplicados
+<strong> ## Conceitos Aplicados </storng>
 
 - Declaração e manipulação de variáveis
 - Estruturas condicionais
@@ -27,11 +27,11 @@ Desenvolver uma aplicação orientada por menu capaz de executar diferentes oper
 - Controle de fluxo
 - Tratamento de diferentes cenários de execução
 
-## Desafios Encontrados
+<strong> ## Desafios Encontrados </strong>
 
 Durante o desenvolvimento foi necessário analisar a lógica de repetição do menu, organizar o fluxo das operações matemáticas e garantir que cada funcionalidade retornasse corretamente ao processo principal da aplicação.
 
-## Aprendizados
+<strong> ## Aprendizados </strong>
 
 Este projeto contribuiu para o desenvolvimento das seguintes competências:
 
@@ -41,11 +41,11 @@ Este projeto contribuiu para o desenvolvimento das seguintes competências:
 - Depuração de algoritmos
 - Organização lógica de programas
 
-## Tecnologias
+<strong> ## Tecnologias </strong>
 
 - Visualg 3.0
 
-## Autor
+<strong> ## Autor </strong>
 
 <n>Elza Vitória Mendes Silva de Aquino <br>| 
 Graduando em Engenharia de Software <br>
