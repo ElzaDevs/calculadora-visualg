@@ -46,7 +46,7 @@ Este projeto contribuiu para o desenvolvimento das seguintes competências:
 - Visualg 3.0
 -- Demonstração--
  Menu Principal
-Tela inicial da aplicação responsável pela navegação entre as funcionalidades matemáticas implementadas.
+Tela inicial da aplicação responsável pela navegação entre as funcionalidades matemáticas implementadas. <br>
 ![Menu Principal](imagens/menu-principal.png)
 ## Como Executar
 
