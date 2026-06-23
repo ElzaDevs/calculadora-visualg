@@ -45,7 +45,7 @@ Este projeto contribuiu para o desenvolvimento das seguintes competências:
 
 - Visualg 3.0
 
-<strong> ## Autor </strong>
+ ## Autor 
 
 <n>Elza Vitória Mendes Silva de Aquino <br>| 
 Graduando em Engenharia de Software <br>
