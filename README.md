@@ -1,2 +1,51 @@
-# calculadora-matematica-fundamental-visualg
-Projeto acadêmico desenvolvido em Visualg para aplicação de conceitos fundamentais de lógica de programação, incluindo estruturas de seleção, repetição, operações matemáticas, potenciação, raiz quadrada e resolução de equações do segundo grau.
+# Calculadora Matemática em Visualg
+
+## Contexto
+
+Projeto desenvolvido como atividade da disciplina de Linguagem e Lógica de Programação com o objetivo de consolidar os fundamentos da construção de algoritmos e da programação estruturada.
+
+## Objetivo
+
+Desenvolver uma aplicação orientada por menu capaz de executar diferentes operações matemáticas, exercitando a decomposição de problemas em etapas lógicas e o controle do fluxo de execução.
+
+## Funcionalidades Implementadas
+
+- Operações aritméticas básicas
+- Potenciação
+- Cálculo de raiz quadrada
+- Resolução de equações do segundo grau (Bhaskara)
+- Navegação por menu interativo
+- Encerramento controlado da aplicação
+
+## Conceitos Aplicados
+
+- Declaração e manipulação de variáveis
+- Estruturas condicionais
+- Estruturas de repetição
+- Entrada e saída de dados
+- Expressões matemáticas
+- Controle de fluxo
+- Tratamento de diferentes cenários de execução
+
+## Desafios Encontrados
+
+Durante o desenvolvimento foi necessário analisar a lógica de repetição do menu, organizar o fluxo das operações matemáticas e garantir que cada funcionalidade retornasse corretamente ao processo principal da aplicação.
+
+## Aprendizados
+
+Este projeto contribuiu para o desenvolvimento das seguintes competências:
+
+- Raciocínio algorítmico
+- Resolução estruturada de problemas
+- Modelagem de fluxos de execução
+- Depuração de algoritmos
+- Organização lógica de programas
+
+## Tecnologias
+
+- Visualg 3.0
+
+## Autor
+
+Elza Vitória Mendes Silva de Aquino
+Graduanda em Engenharia de Software
