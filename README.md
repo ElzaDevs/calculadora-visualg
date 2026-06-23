@@ -47,8 +47,7 @@ Este projeto contribuiu para o desenvolvimento das seguintes competências:
 -- Demonstração--
  Menu Principal
 Tela inicial da aplicação responsável pela navegação entre as funcionalidades matemáticas implementadas.
-![Menu Principal](menu-principal.png)
-
+![Menu Principal](imagens/menu-principal.png)
 ## Como Executar
 
 1. Abrir o arquivo `.alg` no Visualg.
