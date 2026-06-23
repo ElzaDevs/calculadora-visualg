@@ -47,5 +47,7 @@ Este projeto contribuiu para o desenvolvimento das seguintes competências:
 
 ## Autor
 
-Elza Vitória Mendes Silva de Aquino
-Graduanda em Engenharia de Software
+<n>Elza Vitória Mendes Silva de Aquino <br>| 
+Graduando em Engenharia de Software <br>
+Qualquer dúvida, pode estar entrando em contato, no email: elza.aquino@edu.uniube.br <br>
+Este material também tem o intuito de ajudar outras pessoas.</n>
