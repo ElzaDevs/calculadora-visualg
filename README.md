@@ -49,9 +49,10 @@ Este projeto contribuiu para o desenvolvimento das seguintes competências:
 Tela inicial da aplicação responsável pela navegação entre as funcionalidades matemáticas implementadas. <br>
 ![Menu Principal](menu-principal.png)
 ## Como Executar
-1. Abrir o arquivo `.alg` no Visualg.
-2. Executar o algoritmo.
-3. Selecionar a operação desejada através do menu principal. 
+1. Instalar o arquivo `.alg`.
+2. Abrir o arquivo `.alg` no Visualg `3.0.7` ou `3.0.6.5`.
+3. Executar o algoritmo na sua máquina.
+4. Selecionar a operação desejada através do menu principal. 
  ## Autor 
 
 <n> Elza Vitória Mendes Silva de Aquino <br>| 
